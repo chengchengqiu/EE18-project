@@ -1,8 +1,8 @@
 # Examining Resident Populations and Development around National Forests in the U.S. – A Spatial and Socioeconomic Analysis Tool with Google Earth Engine
 
-# Author: Chengcheng Qiu
+### Author: Chengcheng Qiu
 
-# This project is for F&ES Geospatial Software Design at Yale School of Forestry and Environmental Studies. Thanks for Professor Tomlin, Sabrina Szeto and TC Chakraborty’s continuous help and support. 
+### This project is for F&ES Geospatial Software Design at Yale School of Forestry and Environmental Studies. Thanks for Professor Tomlin, Sabrina Szeto and TC Chakraborty’s continuous help and support. 
 
 This project demonstrates the application of Google Earth Engine in developing a spatial analysis tool for examining the population context and socioeconomic development of resident populations around the National Forests in the United States of interest. 
 
